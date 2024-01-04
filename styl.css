@@ -1,0 +1,164 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;400;500;700&display=swap');
+.container{
+    width: 1117px;
+    margin:auto;
+}
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Roboto';
+}
+header{
+    background-color: #EEEFF1;
+}
+.header-content{
+    display: flex;
+    justify-content: flex-end;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    letter-spacing: 0.1em;
+    padding: 40px 0;
+}
+.header-content a{
+    margin-right:42px;
+}
+.disain-content{
+    display: flex;
+    justify-content: space-between;
+}
+.disain-content p{
+    width: 549px;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    color: #727272;
+    margin: 60px 0;
+}
+.disain{
+    background-color:#EEEFF1;
+    padding: 154px 0;
+}
+.disain-content h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 48px;
+    line-height: 79px;
+}
+button{
+    width: 225px;
+    height: 65px;
+    background-color: #34547A;
+    color: #FFFFFF;
+    border: none;
+}
+.disain-content img{
+    height: 234px;
+    width: 257px;
+    border-radius: 20px;
+}
+.about-content h1{
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 38px;
+    text-align: center;
+}
+.about-content p{
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 26px;
+    text-align: center;
+    color: #727272;
+    width: 540px;
+    margin: auto;
+    margin-top: 50px;
+}
+.about{
+    padding: 110px 0;
+}
+.project{
+    background-color: #34547A;
+    color: white;
+    padding: 100px 0;
+}
+.project-card{
+    display: flex;
+}
+.card-text{
+    margin-left: 20px;;
+}
+.project-content{
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+}
+.project-content img{
+    width: 50px;
+    height: 50px;
+}
+.developer-content p{
+    width: 435px;
+    margin:30px 0;
+}
+.developer-content{
+    display: flex;
+    justify-content: space-between;
+}
+.developer{
+    padding: 65px;
+}
+.developer-content h3{
+    margin-top:30px;
+}
+.developer-content h1{
+    margin-top:30px;
+}
+.video{
+    width: 100%;
+    text-align: center;
+    margin-top:50px;
+}
+form{
+    width: 540px;
+    margin: auto;  
+    height: 245px;
+    margin-top: 65px;
+    text-align: center;
+    display:flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+}
+input{
+    width: 239px;
+    padding: 10px 0 10px 10px;
+    margin-bottom: 20px;
+    /* margin-right: 30px; */
+}
+.first{
+    /* margin */
+}
+textarea{
+    width: 100%;
+    height: 175px;
+    resize: none;
+    padding: 17px;
+    text-align: left;
+}
+.about-content button{
+    margin-top: 50px;
+}
+.shvaiger{
+    background-color: #34547A;
+    text-align: center;
+    color: #FFFFFF;
+    padding: 50px;
+}
+.shvaiger p{
+    padding: 20px;  
+}
+швайгер доделать
+ховер для кнопок и картинки
